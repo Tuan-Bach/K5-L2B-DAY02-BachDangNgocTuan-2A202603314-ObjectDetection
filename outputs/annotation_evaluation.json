@@ -1,12 +1,12 @@
 {
   "iou_match_threshold": 0.5,
-  "precision": 0.969,
-  "recall": 0.9571,
-  "f1": 0.963,
-  "mean_iou_of_matches": 0.8657,
-  "true_positive": 625,
-  "false_positive": 20,
-  "false_negative": 28,
+  "precision": 0.9751,
+  "recall": 0.9587,
+  "f1": 0.9668,
+  "mean_iou_of_matches": 0.8659,
+  "true_positive": 626,
+  "false_positive": 16,
+  "false_negative": 27,
   "passed": true,
   "required_f1": 0.8,
   "required_mean_iou": 0.7,
@@ -20,13 +20,13 @@
     {
       "image": "drive_002",
       "gold_boxes": 13,
-      "student_boxes": 17,
+      "student_boxes": 16,
       "matches": 13
     },
     {
       "image": "drive_003",
       "gold_boxes": 18,
-      "student_boxes": 20,
+      "student_boxes": 19,
       "matches": 17
     },
     {
@@ -152,7 +152,7 @@
     {
       "image": "drive_024",
       "gold_boxes": 30,
-      "student_boxes": 28,
+      "student_boxes": 27,
       "matches": 27
     },
     {
@@ -261,7 +261,7 @@
       "image": "drive_042",
       "gold_boxes": 4,
       "student_boxes": 4,
-      "matches": 3
+      "matches": 4
     },
     {
       "image": "drive_043",
